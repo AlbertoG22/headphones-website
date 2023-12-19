@@ -30,7 +30,7 @@ body {
 /* Globales */
 .contenedor {
     max-width: 120rem;
-    width: 90%;
+    width: 75%;
     margin: 0 auto;
 }
 h1, h2, h3 {
@@ -54,3 +54,6 @@ img {
 }
 
 /* Utilidades */
+.text-center {
+    text-align: center;
+}
